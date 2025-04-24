@@ -1,0 +1,16 @@
+{
+  "name": "sniperbin-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-apexcharts": "1.4.0",
+    "apexcharts": "3.35.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
